@@ -1,5 +1,6 @@
 [../](..)
 
+- [dmscripts-git-1](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/dmscripts-git-1.0.r485.343ed73-1-any.pkg.tar.zst)
 - [neofetch-git-7](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/neofetch-git-7.1.0.r172.g2cbd8e44-1-any.pkg.tar.zst)
 - [nerd-hack-font-1-1-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/nerd-hack-font-1-1-any.pkg.tar.zst)
 - [parch-branding-2023](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-branding-2023.12.25-0-any.pkg.tar.zst)
