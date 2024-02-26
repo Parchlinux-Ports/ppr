@@ -7,6 +7,7 @@
 - [parch-modern-backgrounds-1](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-modern-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-plymouth-1-0-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-plymouth-1-0-any.pkg.tar.zst)
 - [parch-sway-1-1-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-sway-1-1-any.pkg.tar.zst)
+- [parch-wallpapers-0](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-wallpapers-0.0.3-0-any.pkg.tar.zst)
 - [paru-v2](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/paru-v2.0.1-aarch64.tar.zst)
 - [vazir-code-fonts-1](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/vazir-code-fonts-1.1.2-2-any.pkg.tar.zst)
 - [vazirmatn-fonts-33](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/vazirmatn-fonts-33.003-1-any.pkg.tar.zst)
