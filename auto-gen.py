@@ -10,7 +10,7 @@ archs_text = """[../](..)
 README_text = """# PPR: Parch Pacman repository
 
 """
-base_url = "https://raw.githubusercontent.com/parchlinux/ppr/main/{arch}/{package}"
+base_url = "https://raw.githubusercontent.com/parchlinux-arm/ppr/main/{arch}/{package}"
 
 for arch in archs:
     logging.info("Generating for arch: %s", arch)
