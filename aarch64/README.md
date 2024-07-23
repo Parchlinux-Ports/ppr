@@ -2,6 +2,7 @@
 
 - [carburetor-4](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/carburetor-4.5.1-2-any.pkg.tar.zst)
 - [dmscripts-git-1](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/dmscripts-git-1.0.r485.343ed73-1-any.pkg.tar.zst)
+- [namban-0](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/namban-0.3-3-any.pkg.tar.zst)
 - [neofetch-git-7](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/neofetch-git-7.1.0.r172.g2cbd8e44-1-any.pkg.tar.zst)
 - [nerd-hack-font-1-1-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/nerd-hack-font-1-1-any.pkg.tar.zst)
 - [parch-base-config-1-0-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-base-config-1-0-any.pkg.tar.zst)
@@ -12,6 +13,7 @@
 - [parch-plymouth-1-0-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-plymouth-1-0-any.pkg.tar.zst)
 - [parch-sway-1-1-any](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-sway-1-1-any.pkg.tar.zst)
 - [parch-wallpapers-0](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-wallpapers-0.0.3-0-any.pkg.tar.zst)
+- [parch-zram-1](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/parch-zram-1.0-1-any.pkg.tar.zst)
 - [paru-v2](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/paru-v2.0.1-aarch64.tar.zst)
 - [tractor-4](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/tractor-4.5.1-2-any.pkg.tar.zst)
 - [ttf-apple-emoji-17](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/ttf-apple-emoji-17.4-3-any.pkg.tar.zst)
