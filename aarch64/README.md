@@ -20,4 +20,3 @@
 - [ttf-apple-emoji-17](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/ttf-apple-emoji-17.4-3-any.pkg.tar.zst)
 - [vazir-code-fonts-1](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/vazir-code-fonts-1.1.2-2-any.pkg.tar.zst)
 - [vazirmatn-fonts-33](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/vazirmatn-fonts-33.003-1-any.pkg.tar.zst)
-- [yay-bin-12](https://raw.githubusercontent.com/parchlinux-arm/ppr/main/aarch64/yay-bin-12.2.0-1-aarch64.pkg.tar.zst)
